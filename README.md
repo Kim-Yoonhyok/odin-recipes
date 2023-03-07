@@ -1,1 +1,2 @@
 # odin-recipes
+With this project, I will learn how to use html to build a very basic website. By the end of this project, I hope to become comfortable enough with html so that I can use it with css and javascript with ease in the future
